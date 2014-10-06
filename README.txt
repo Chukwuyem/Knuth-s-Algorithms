@@ -1,0 +1,1 @@
+This is a little side project I decided to embark on a few weeks after I started reading The Art of Computer Programming by Donald Knuth. For every algorithm I come across, I hope to write it in as many languages I know how. 
