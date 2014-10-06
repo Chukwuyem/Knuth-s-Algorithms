@@ -1,0 +1,2 @@
+This is a side project I decided to embark on after I began reading The Art of Computer Programming by Donald Knuth. 
+The purpose of this is to write down all the algorithms I come acroos in the book in every programming language I know. 
